@@ -7,5 +7,5 @@ Exchange Rate Claculator- https://binduja2000.github.io/fluffy-palm-tree/exchang
 
 Movie Seat Booking- https://binduja2000.github.io/fluffy-palm-tree/movie-seat-booking/
 
-Weather API- https://binduja2000.github.io/fluffy-palm-tree/weather_app/index.html/
+
 
