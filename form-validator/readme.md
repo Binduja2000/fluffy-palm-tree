@@ -11,4 +11,4 @@ Simple client side form validation. Check requird, length, email and password ma
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
 
- https://binduja2000.github.io/fluffy-palm-tree/
+ https://binduja2000.github.io/fluffy-palm-tree/form-validator/
