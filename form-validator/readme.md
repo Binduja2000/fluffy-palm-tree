@@ -1,5 +1,8 @@
 ## Form Validator (Intro Project)
 
+ https://binduja2000.github.io/fluffy-palm-tree/form-validator/
+ 
+ 
 Simple client side form validation. Check requird, length, email and password match
 
 ## Project Specifications
