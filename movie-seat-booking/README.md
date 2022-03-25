@@ -2,6 +2,8 @@
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
+https://binduja2000.github.io/fluffy-palm-tree/movie-seat-booking/
+
 ## Project Specifications
 
 - Display UI with movie select, screen, seats, legend & seat info
