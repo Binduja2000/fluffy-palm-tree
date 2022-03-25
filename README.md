@@ -1,7 +1,7 @@
 # fluffy-palm-tree
 planned, developed, coded, tested, visualized projects 
 
-Form Validator-
+Form Validator- https://binduja2000.github.io/fluffy-palm-tree/form-validator/
 
 Exchange Rate Claculator- https://binduja2000.github.io/fluffy-palm-tree/exchange-rate/
 
