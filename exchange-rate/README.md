@@ -3,7 +3,7 @@
 Select countries to get the exchange rate for a specific amount
 
 
-https://binduja2000.github.io/fluffy-palm-tree/form-validator/exchange-rate/
+https://binduja2000.github.io/fluffy-palm-tree/exchange-rate/
 
 ## Project Specifications
 
