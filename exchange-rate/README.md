@@ -2,6 +2,8 @@
 
 Select countries to get the exchange rate for a specific amount
 
+https://github.com/Binduja2000/fluffy-palm-tree/tree/main/exchange-rate/
+
 ## Project Specifications
 
 - Display UI with 2 select lists for countries and 2 inputs for amounts
